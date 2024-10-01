@@ -7,6 +7,7 @@
 
 - ⚡ learning to code 😜
 
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -35,6 +36,16 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynoanhit&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Thaynoanhit Aguiar's most languages"/>
 </p>
 
+
+<br><br>
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/thaynoanhit" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:hitab2000@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thaynoanhit-aguiar-32898b298/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <!--
 **Thaynoanhit/Thaynoanhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
