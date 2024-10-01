@@ -7,6 +7,12 @@
 
 - ⚡ learning to code 😜
 
+<br>
+
+<p align="center">
+  <img src="assets/coding-anime.gif" width="500">
+</p>
+
 
 <br><br>
 
