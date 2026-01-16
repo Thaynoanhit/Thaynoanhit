@@ -1,5 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thaynoanhit Aguiar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaynaonhit&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaynaonhit&color=blue" alt="Profile views" /> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 - 🚧 README in progress
 
@@ -7,14 +9,15 @@
 
 - ⚡ learning to code 😜
 
-<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="assets/coding-anime.gif" width="500">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -33,10 +36,7 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-
-
-
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -45,8 +45,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynoanhit&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Thaynoanhit Aguiar's most languages"/>
 </p>
 
-
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Contatos:
 
@@ -55,6 +54,8 @@
 <a href = "mailto:hitab2000@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thaynoanhit-aguiar-32898b298/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!--
 **Thaynoanhit/Thaynoanhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
