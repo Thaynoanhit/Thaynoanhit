@@ -27,6 +27,7 @@
 ![GIT](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 ![GITHUB](https://img.shields.io/badge/GitHub-330F63?style=for-the-badge&logo=github&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
