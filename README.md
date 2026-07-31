@@ -51,7 +51,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Smarty](https://img.shields.io/badge/Smarty-FFCC00?style=for-the-badge&color=FFCC00&labelColor=333333)
 ![TPL](https://img.shields.io/badge/TPL-Template%20Engine-4B8BBE?style=for-the-badge)
-
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
