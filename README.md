@@ -55,6 +55,7 @@
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-366488.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger_UI-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
