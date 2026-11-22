@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370">
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:17px;white-space:pre}
+.o{opacity:0;animation:o .01s linear forwards}
+@keyframes o{to{opacity:1}}
+@keyframes tp{to{transform:translateX(var(--w));width:0}}
+.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0)}
+@keyframes bar{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.cur{opacity:0;animation:o .01s linear forwards,bl 1s steps(1) infinite}
+@keyframes bl{50%{fill:transparent}}
+.glow2{animation:gl 3s ease-in-out infinite} @keyframes gl{50%{opacity:.6}}
+</style>
+<rect x="1" y="1" width="998" height="368" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H985 a14 14 0 0 1 14 14 V46 H1Z" fill="#161b22"/>
+<rect x="1" y="46" width="998" height="1" fill="#30363d"/>
+<circle cx="28" cy="24" r="7" fill="#ff5f57"/><circle cx="50" cy="24" r="7" fill="#febc2e"/><circle cx="72" cy="24" r="7" fill="#28c840"/>
+<text x="500.0" y="29" text-anchor="middle" fill="#8b949e" font-size="14">maria@github: ~ — bash</text>
+<defs><linearGradient id="mg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39d353"/><stop offset="1" stop-color="#58a6ff"/></linearGradient><filter id="gw" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><g class="glow2" filter="url(#gw)"><rect x="770" y="112" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="112" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="770" y="125" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="783" y="125" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="809" y="125" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="125" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="770" y="138" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="796" y="138" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="138" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="770" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="796" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="770" y="164" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="164" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="770" y="177" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="177" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="770" y="190" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="822" y="190" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="112" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="861" y="112" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="874" y="112" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="887" y="112" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="125" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="900" y="125" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="138" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="900" y="138" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="861" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="874" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="887" y="151" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="164" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="900" y="164" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="177" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="900" y="177" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="848" y="190" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="861" y="190" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="874" y="190" width="11" height="11" rx="2" fill="url(#mg)"/><rect x="887" y="190" width="11" height="11" rx="2" fill="url(#mg)"/></g>
+<text x="853" y="240" text-anchor="middle" fill="#8b949e" style="font-size:13px">// back-end · ia · robótica</text>
+<text x="30" y="96" class="o" style="animation-delay:0.50s"><tspan fill="#39d353">maria@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+<rect x="193.2" y="80" width="65" height="22" fill="#0d1117" class="tp" style="--w:65px;animation:tp 0.36s steps(6) 0.80s forwards"/>
+<text x="30" y="124" class="o" style="animation-delay:1.51s"><tspan fill="#c9d1d9" font-size="26" font-weight="700">Maria Eduarda Barros</tspan></text>
+<text x="30" y="158" class="o" style="animation-delay:1.76s"><tspan fill="#39d353">maria@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">cat foco.txt</tspan></text>
+<rect x="193.2" y="142" width="126" height="22" fill="#0d1117" class="tp" style="--w:126px;animation:tp 0.72s steps(12) 2.06s forwards"/>
+<text x="30" y="186" class="o" style="animation-delay:3.13s"><tspan fill="#d2a8ff">Back-end</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#ffa657">Inteligência Artificial</tspan><tspan fill="#8b949e">  &amp;&amp;  </tspan><tspan fill="#79c0ff">Robótica</tspan></text>
+<text x="30" y="214" class="o" style="animation-delay:3.38s"><tspan fill="#39d353">maria@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">echo $LOCALIZACAO</tspan></text>
+<rect x="193.2" y="198" width="177" height="22" fill="#0d1117" class="tp" style="--w:177px;animation:tp 1.02s steps(17) 3.68s forwards"/>
+<text x="30" y="242" class="o" style="animation-delay:5.05s"><tspan fill="#a5d6ff">São Paulo, Brasil</tspan></text>
+<text x="30" y="270" class="o" style="animation-delay:5.30s"><tspan fill="#39d353">maria@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">./carregar_carreira.sh</tspan></text>
+<rect x="193.2" y="254" width="228" height="22" fill="#0d1117" class="tp" style="--w:228px;animation:tp 1.32s steps(22) 5.60s forwards"/>
+<text x="30" y="298" class="o" style="animation-delay:7.27s"><tspan fill="#8b949e">[</tspan></text>
+<rect x="44" y="285" width="300" height="14" rx="2" fill="#161b22" class="o" style="animation-delay:7.27s"/>
+<rect x="44" y="285" width="300" height="14" rx="2" fill="#39d353" class="bar" style="animation:bar 2.4s steps(20) 7.27s forwards"/>
+<text x="350" y="298" class="o" style="animation-delay:7.27s"><tspan fill="#8b949e">]</tspan></text>
+<text x="370" y="298" class="o" style="animation-delay:9.77s"><tspan fill="#39d353">✔ pronta para novos desafios</tspan></text>
+<text x="30" y="328" class="o" style="animation-delay:9.97s"><tspan fill="#39d353">maria@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<rect x="193" y="313" width="10" height="19" fill="#c9d1d9" class="cur" style="animation-delay:9.97s"/>
+</svg>
